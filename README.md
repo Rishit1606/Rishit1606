@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I'm currently working on **SmartRoute**, an emergency response and network optimization engine ([smartroute-backend](https://github.com/Rishit1606/smartroute-backend)). It uses graph-based routing and data-driven analysis of ambulance-station placement and response times.
+- 🔭 I'm currently working on **SmartRoute**, an emergency response and network optimization engine ([smartroute-backend] (https://github.com/Rishit1606/smartroute-backend)). It uses graph-based routing and data-driven analysis of ambulance-station placement and response times.
 - 🌱 I'm currently learning data analysis, optimization, and data pipelines
 - 🎓 B.S. Computer Science student at Arizona State University, minoring in Data Science
-- 🛠️ Python · Pandas · NumPy · SQL/PostgreSQL · Scikit-learn · Streamlit · Java · Git 
+- 🛠️ Python · Pandas · NumPy · SQL/PostgreSQL · Scikit-learn · Streamlit · Java · Git · Docker
 - 💬 Ask me about data pipelines, data visualization, or route optimization
 - 📫 How to reach me: [Message me on LinkedIn](https://www.linkedin.com/in/rishit-singh1606)
 - ⚡️ Fun fact: If I'm not coding, I'm probably watching Soccer ⚽️ or an F1 race 🏎️. 
