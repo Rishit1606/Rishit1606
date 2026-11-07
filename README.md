@@ -22,5 +22,6 @@ Here are some ideas to get you started:
 - 🎓 B.S. Computer Science student at Arizona State University, minoring in Data Science
 - 🛠️ Python · Pandas · NumPy · SQL/PostgreSQL · Scikit-learn · Streamlit · Java · Git · Docker
 - 💬 Ask me about data pipelines, data visualization, or route optimization
+- 🤔 I’m looking for help with theoretical ML
 - 📫 How to reach me: [Message me on LinkedIn](https://www.linkedin.com/in/rishit-singh1606)
 - ⚡️ Fun fact: If I'm not coding, I'm probably watching Soccer ⚽️ or an F1 race 🏎️. 
